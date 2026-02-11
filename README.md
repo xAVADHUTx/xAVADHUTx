@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🎓 AI/ML Engineer passionate about solving real-world problems with data.<br>- 🎯 Focused on **NLP, Predictive Analytics, and Deep Learning**.<br>- 💼 Reach me for: **AI/ML Engineer and Data Scientist, or Coffee**<br>- 🌱 I’m currently learning **AWS**<br>- 💬 Ask me about **Python, PyTorch, and Neural Networks**<br>- ⚡ Fun fact: **I train models, but I don't go to the gym.**<br>
+<br>- 🎓 AI/ML Engineer passionate about solving real-world problems with data.<br>- 🎯 Focused on **NLP, Predictive Analytics, and Deep Learning**.<br>- 💼 Reach me for: **AI/ML Engineer and Data Scientist, or Coffee😅**<br>- 🌱 I’m currently learning **AWS**<br>- 💬 Ask me about **Python, PyTorch, and Neural Networks**<br>- ⚡ Fun fact: **I train models, but I don't go to the gym.**<br>
 
 
 ## 🌐 Socials:
